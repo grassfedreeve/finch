@@ -1,6 +1,6 @@
 # finch
 
-finch is a layout based on [Canary](https://github.com/Apsu/Canary), adjusted to fit on my 26 key keyboards such as the [ʻākohekohe](https://github.com/grassfedreeve/akohekohe) tuned for very low pinkie usage with a single key. (LP: 2.51% | RP: 3.83%). Intended to be used with v z and qu on combos along with symbol layer/symbol combos.
+finch is a layout based on [Canary](https://github.com/Apsu/Canary), adjusted to fit on my 26 key keyboards such as the [ʻākohekohe](https://github.com/grassfedreeve/akohekohe) tuned for very low pinkie usage with a single key. (LP: 3.4% | RP: 3.2%). Intended to be used with v z and qu on combos along with symbol layer/symbol combos.
 
 
 ```
