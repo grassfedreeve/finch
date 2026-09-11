@@ -6,7 +6,7 @@ finch is a layout based on [Canary](https://github.com/Apsu/Canary), adjusted to
 ```
   l y w m  p f o ,
 c r s t k  b n a i u
-  j g d      h ' .
+  x g d      h ' .
            e
 ```
 
@@ -15,7 +15,7 @@ Full size with stats from dmini:
 ```
   v l y w j  q f o , ;
   c r s t m  p n a i u
-  z j g d k  b h ' . /
+  z x g d k  b h ' . /
                e                   
 
 Finger usage
