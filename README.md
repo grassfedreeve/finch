@@ -5,28 +5,35 @@ finch is a layout based on [Canary](https://github.com/Apsu/Canary), adjusted to
 
 ```
   l y w m  p f o ,
-c r s t k  b n a i o
-  j g d      h x .
+c r s t k  b n a i u
+  j g d      h ' .
            e
 ```
 
-Full size with stats from cmini:
+Full size with stats from dmini:
 
 ```
-  v l y w q  / f o , ;
+  v l y w j  q f o , ;
   c r s t m  p n a i u
-  z j g d k  b h x . -
+  z j g d k  b h ' . /
                e                   
 
-MONKEYRACER:
-  Alt: 27.11%
-  Rol: 47.29%   (In/Out: 25.34% | 21.96%)
-  One:  2.45%   (In/Out:  1.50% |  0.95%)
-  Rtl: 49.74%   (In/Out: 26.83% | 22.91%)
-  Red:  3.30%   (Bad:     0.21%)
+Finger usage
+  LP 3.4%   LR  9.5%  LM 10.5%  LI 18.5%
+  RP 3.2%   RR  9.9%  RM 16.1%  RI 17.1%
+  LT 0.0%   RT 11.9%
 
-  SFB:  0.71%
-  SFS:  5.10%   (Red/Alt: 2.11% | 2.99%)
+Bigrams
+  SFB 0.69%    SFS 5.69%    SKB 2.83%
+  LSB  4.10    VSB  3.92
+  LSS  5.20    VSS  8.34
 
-  LH/RH: 42.12% | 57.88%
+Trigrams
+  Alt     33.96%      Roll 51.34%
+  In2     25.97%      Out2 22.92%
+  In3      1.47%      Out3  0.98%
+  Alt+SFS  5.67%      RdSF  3.04%
+  Rdr      6.46%      WRd   0.38%
+
+
  ```
