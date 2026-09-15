@@ -37,29 +37,34 @@ Trigrams
 
 
  ```
-With adaptive magic:
+With adaptive magic and spacegrams:
 
 ```
-magic
-  yl → ys  sr → sy  gx → gs  gd → gy
+finch (reeve_.) (1 like)
+  v l y w j  q f o , ;
+  c r s t m  p n a i u
+  z x g d k  b h ' . /
+        ␣    e        
 
-repeat
-  cx → cc
+adaptive swaps
+  c x/c · e e/u · f w/f · g s/x · g y/d · l l/w · r h/l · s y/r · t w/g · y s/l
 
-Finger usage
-  LP 3.3%   LR  9.8%  LM 10.3%  LI 18.5%
-  RP 3.2%   RR  9.9%  RM 16.1%  RI 17.1%
-  LT 0.0%   RT 11.9%
+MONKEYRACER · SG On:
+  Alt: 23.47%
 
-Bigrams
-  SFB 0.43%    SFS 5.70%    SKB 2.79%
-  LSB  4.09    VSB  3.99
-  LSS  5.17    VSS  8.35
+ Roll: 61.53%   (In/Out: 31.49% | 30.03%)
+ Rol2: 58.61%   (In/Out: 29.53% | 29.08%)
+ Rol3:  2.92%   (In/Out:  1.96% |  0.96%)
 
-Trigrams
-  Alt     33.96%      Roll 51.88%
-  In2     26.09%      Out2 23.29%
-  In3      1.49%      Out3  1.01%
-  Alt+SFS  5.70%      RdSF  3.06%
-  Rdr      6.50%      WRd   0.40%
+  Red:  5.45%   (Bad:     0.08%)
+ NoTh:  1.05%   (Bad:     0.08%)
+Thumb:  4.40%   (Bad:     0.00%)
+
+  SFB:  0.18%
+  SFS:  4.55%   (Alt/Red: 2.13% | 2.41%)
+
+  LSB:   2.59   (LSS:   3.80)
+  VSB:   2.59   (VSS:   5.22)
+
+  LH/RH: 52.43% | 47.57%
 ```
